@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nqy:home|Door43 (nqy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nqy|d43-nqy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nqy/archive/master.zip|d43-nqy.zip]]
+
+**Recent Changes**
+{{changes>ns = nqy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nqy|Ethnologue data]]
+
